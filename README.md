@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @ViniciusCarrijo
-- 👀 I’m interested in to develop
-- 🌱 I’m currently learning nodejs 
 - 📫 How to reach me https://www.linkedin.com/in/viniciuscarrijo/
